@@ -5,7 +5,7 @@ This space contains experimental natural language processing tools to discover n
 This repository contains a set of Python tools for the analysis of scientific literature focused on **metabolite bioprospecting**.  
 The code allows processing *abstracts* exported from Scopus, PubMed, and WoS, identifying chemical compounds, and performing frequency analysis and visualization.
 
-## 📂 Required external data
+## Required external data
 
 To run the analysis properly, you need four external datasets that are not included in this repository due to size/license restrictions.  
 
