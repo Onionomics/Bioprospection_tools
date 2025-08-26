@@ -23,8 +23,8 @@ To run the analysis properly, you need four external datasets that are not inclu
    - File: `NPASSv1.txt` 
    - Location: into `data/` folder.  
 
-4. **Scopus export file**  
-   - File: `scopus_export.csv` (or similar, generated directly from Scopus when exporting your search results).  
+4. **Scopus type export file**  
+   - File: `compilated_search_results.csv` (or similar, generated directly from Scopus when exporting your search results). 
    - This file must be obtained directly by the user from Scopus and placed in the `data/` folder.  
 
 ⚠️ **Note:** Before running any notebooks or scripts, make sure the four files are available in the `data/` directory. The repository is configured to read them from there.
