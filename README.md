@@ -2,19 +2,19 @@ This space contains experimental natural language processing tools to discover n
 
 # Bioprospection Tools
 
-Este repositorio contiene un conjunto de herramientas en Python para el análisis de literatura científica orientada a **bioprospección de metabolitos**.  
-El código permite procesar los *abstracts* exportados desde Scopus, PubMed y WoS, identificar compuestos químicos y realizar análisis de frecuencia y visualización.
+This repository contains a set of Python tools for the analysis of scientific literature focused on **metabolite bioprospecting**.  
+The code allows processing *abstracts* exported from Scopus, PubMed, and WoS, identifying chemical compounds, and performing frequency analysis and visualization.
 
-## Datos requeridos
+## Required Data
 
-Para ejecutar el pipeline se deben ubicar en la carpeta `data/` los siguientes archivos:
+To run the pipeline, place the following files inside the `data/` folder:
 
 1. **ChEBI_lite.sdf**  
    Chemical Entities of Biological Interest (ChEBI) database.
 
 2. **NPASSv1.txt**  
-   Natural product activity and species source database for biomedical research.  
+   Natural Product Activity and Species Source database for biomedical research.  
 
-3. **Metabocards.txt**
+3. **Metabocards.txt**  
+   Chemical ontology database from the Human Metabolome DataBase (HMDB).
 
-  Chemical ontology data base from Human Metabolome DataBase (HMDB).
