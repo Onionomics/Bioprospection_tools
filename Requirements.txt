@@ -3,3 +3,5 @@ rdkit
 numpy
 seaborn
 scikit-learn
+nltk
+collections
