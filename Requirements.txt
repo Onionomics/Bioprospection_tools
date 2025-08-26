@@ -1,4 +1,5 @@
 pandas
 rdkit
-scipy
+numpy
+seaborn
 scikit-learn
