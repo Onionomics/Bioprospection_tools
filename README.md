@@ -3,7 +3,7 @@ This space contains experimental natural language processing tools to discover n
 # Bioprospection Tools
 
 Este repositorio contiene un conjunto de herramientas en Python para el análisis de literatura científica orientada a **bioprospección de metabolitos**.  
-El código permite procesar los *abstracts* exportados desde **Scopus**, identificar compuestos químicos y realizar análisis de frecuencia y visualización.
+El código permite procesar los *abstracts* exportados desde Scopus, PubMed y WoS, identificar compuestos químicos y realizar análisis de frecuencia y visualización.
 
 ## Datos requeridos
 
